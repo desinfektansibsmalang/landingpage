@@ -1,0 +1,24 @@
+.nvbr1 {
+    background-color: #ff0066;
+}
+.nvbrlink1 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.nvbrlink1:hover {
+    color: black;
+}
+
+.ftr1 {
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #ff0066;
+    text-align: center;
+    z-index: 2;
+}
+.cpyr1 {
+    padding: 10px;
+    color: white;
+}
